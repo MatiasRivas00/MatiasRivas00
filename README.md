@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiasRivas00
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development, and soon I would like to start with Data Science concepts!
+- 🌱 I’m currently learning Web Development, and soon I would like to get a job!
 - 📫 You can send me a mail to matias.rivas.aa@gmail.com !
 
 <!---
